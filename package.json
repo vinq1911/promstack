@@ -1,0 +1,30 @@
+{
+  "name": "@vinq1911/promstack",
+  "version": "1.0.3",
+  "description": "Promise queuing tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinq1911/promstack.git"
+  },
+  "keywords": [
+    "promise",
+    "stacking",
+    "js",
+    "es"
+  ],
+  "author": "Tuomas A. Soinne",
+  "license": "ISC",
+  "babel": {
+    "plugins": [
+      "@babel/plugin-proposal-class-properties"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/vinq1911/promstack/issues"
+  },
+  "homepage": "https://github.com/vinq1911/promstack#readme"
+}
